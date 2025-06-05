@@ -1,2 +1,2 @@
-# Basic-C-program.1
+# C-program
 
